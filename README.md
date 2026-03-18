@@ -4,7 +4,7 @@
 挑戦中の言語は Java/Ruby/Rust 。これらはまだ初心者です。
 
 趣味ではバイナリ解析や、あとこんなアプリも書いてます。
-<a href="https://yoya.github.io/MusicalScoreIndicator/movie/"> MusicalScoreIndicator demo </a>
+<a href="https://yoya.github.io/MusicalScoreIndicator/movie/"> MusicalScoreIndicator demo </a> </br>
 その他はこちら。
 <a href="https://app.awm.jp/"> app.awm.jp </a>
 
