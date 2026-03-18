@@ -3,6 +3,9 @@
 使用する言語は、386asm/C/C++/C#/ObjC/Perl/PHP/Python/JavaScript/TypeScript/CoffeScript/Go/Lua。
 挑戦中の言語は Java/Ruby/Rust 。これらはまだ初心者です。
 
+趣味ではバイナリ解析や、あとこんなアプリも書いてます。
+<a href="https://yoya.github.io/MusicalScoreIndicator/movie/"> MusicalScoreIndicator demo </a>
+
 <!--
 **yoya/yoya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
