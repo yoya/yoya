@@ -5,6 +5,8 @@
 
 趣味ではバイナリ解析や、あとこんなアプリも書いてます。
 <a href="https://yoya.github.io/MusicalScoreIndicator/movie/"> MusicalScoreIndicator demo </a>
+その他はこちら。
+<a href="https://app.awm.jp/"> app.awm.jp </a>
 
 <!--
 **yoya/yoya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
