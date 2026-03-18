@@ -1,6 +1,6 @@
-交換機開発 > DNS バランシング > ISDN ドライバ開発 > 動画バイナリ変換 > SNS 開発 > ソーシャルゲーム > Flash バイナリ変換 > ImageMagick 改造 > MIDI プレイヤー > 画像プロキシ > ベクター画像変換 > 画像エディタ 
+交換機開発 > DNS バランシング > ISDN ドライバ開発 > 動画バイナリ変換 > SNS 開発 > ソーシャルゲーム > Flash バイナリ変換 > ImageMagick 改造 > MIDI プレイヤー > 画像プロキシ > ベクター画像変換 > 画像認識 > 画像エディタ 
 といった開発経験の合間にフロントエンド/バックエンドの保守をしたり、たまにコンサルタントっぽい事をしてます。</br>
-使用する言語は、386asm/C/C++/C#/ObjC/Perl/PHP/JS/TS/CoffeScript/Go/Lua。
+使用する言語は、386asm/C/C++/C#/ObjC/Perl/PHP/Python/JavaScript/TypeScript/CoffeScript/Go/Lua。
 挑戦中の言語は Java/Ruby/Rust 。これらはまだ初心者です。
 
 <!--
