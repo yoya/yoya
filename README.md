@@ -1,4 +1,4 @@
-C言語のディスク/ネットワーク・ドライバを独自OSに移植したり、C++ のIP電話スタックを Windows から Solaris に移植したり、LAMP で携帯Webサービス用のライブラリを作ったり、JavaScript で画像や音声のバイナリ処理したり、ImageMagick の追跡をしたり弄ったり等々多くの方々の助けのおかげで、何とかやってます。 </br>
+C言語のディスク/ネットワーク・ドライバを独自OSに移植したり、C++ のIP電話スタックを Windows から Solaris に移植したり、LAMP で携帯Webサービス用のライブラリを作ったり、JavaScript/TypeScript で画像や音声のバイナリ処理したり、Nuxt でサイトを作ったり、ImageMagick の追跡をしたり弄ったり等々多くの方々の助けのおかげで、何とかやってます。 </br>
 使用する言語は、386asm/C/C++/C#/ObjC/Perl/PHP/Python/JavaScript/TypeScript/CoffeScript/Go/Lua。</br>
 Java/Ruby/Rust あたりも触りますが、まだまだ初心者です。。
 
