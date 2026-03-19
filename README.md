@@ -1,7 +1,9 @@
-交換機OS開発 > DNS バランシング > ISDN ドライバ実装 > 動画バイナリ変換 > SNS 開発 > ソーシャルゲーム > Flash バイナリ変換 > ImageMagick 改造 > MIDI プレイヤー > 画像プロキシ > ベクター画像変換 > 画像認識 > 画像エディタ 
-といった開発の合間にフロントエンド/バックエンドの保守をしたり、たまに画像関係の研究やコンサルっぽい事もしてます。</br>
-使用する言語は、386asm/C/C++/C#/ObjC/Perl/PHP/Python/JavaScript/TypeScript/CoffeScript/Go/Lua。
-挑戦中の言語は Java/Ruby/Rust 。これらはまだ初心者です。
+C言語のディスク/ネットワーク・ドライバを独自OSに移植したり、C++ のIP電話スタックを Windows から Solaris に移植したり、LAMP で携帯Webサービス用のライブラリを作ったり、JavaScript で画像や音声のバイナリ処理したり、ImageMagick の追跡をしたり弄ったり等々多くの方々の助けのおかげで、何とかやってます。 </br>
+使用する言語は、386asm/C/C++/C#/ObjC/Perl/PHP/Python/JavaScript/TypeScript/CoffeScript/Go/Lua。</br>
+Java/Ruby/Rust あたりも触りますが、まだまだ初心者です。。
+
+開発経験を以下の通り。</br>
+交換機OS開発 > DNS バランシング > ISDN ドライバ実装 > 動画バイナリ変換 > SNS 開発 > ソーシャルゲーム > Flash バイナリ変換 > ImageMagick 改造 > MIDI プレイヤー > 画像プロキシ > ベクター画像変換 > 画像認識 > 画像エディタ
 
 趣味ではバイナリ解析や、あとこんなアプリも書いてます。
 <a href="https://yoya.github.io/MusicalScoreIndicator/movie/"> MusicalScoreIndicator demo </a> </br>
