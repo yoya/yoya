@@ -1,9 +1,9 @@
-C言語のディスク/ネットワーク・ドライバを独自OSに移植したり、C++ のIP電話スタックを Windows から Solaris に移植したり、LAMP で携帯Webサービス用のライブラリを作ったり、JavaScript/TypeScript で画像や音声のバイナリ処理したり、Nuxt でサイトを作ったり、ImageMagick の追跡をしたり弄ったり等々多くの方々の助けのおかげで、何とかやってます。 </br>
+C言語のディスク/ネットワーク・ドライバを独自OSに移植したり、C++ のIP電話スタックを Windows から Solaris に移植したり、LAMP で携帯Webサービス用のライブラリを作ったり、JavaScript/TypeScript で画像や音声のバイナリ処理したり、Nuxt/Vue でサイトを作ったり、ImageMagick の追跡をしたり弄ったり等々多くの方々の助けのおかげで、何とかやってます。 </br>
 使用する言語は、386asm/C/C++/C#/ObjC/Perl/PHP/Python/JavaScript/TypeScript/CoffeScript/Go/Lua。</br>
 Java/Ruby/Rust あたりも触りますが、まだまだ初心者です。。
 
-開発経験を以下の通り。</br>
-交換機OS開発 > DNS バランシング > ISDN ドライバ実装 > 動画バイナリ変換 > SNS 開発 > ソーシャルゲーム > Flash バイナリ変換 > ImageMagick 改造 > MIDI プレイヤー > 画像プロキシ > ベクター画像変換 > 画像認識 > 画像エディタ
+開発経験は以下の通り。</br>
+交換機OS開発 > DNSバランシング > ISDNドライバ実装 > ルータ設定UI > 動画バイナリ変換 > SNS開発 > ソーシャルゲーム > Flashバイナリ変換 > ImageMagick改造 > MIDIプレイヤー > 画像プロキシ > ベクター画像変換 > 画像認識/自動補正 > 画像エディタ
 
 趣味ではバイナリ解析や、あとこんなアプリも書いてます。
 <a href="https://yoya.github.io/MusicalScoreIndicator/movie/"> MusicalScoreIndicator demo </a> </br>
